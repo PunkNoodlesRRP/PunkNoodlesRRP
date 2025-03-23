@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Miso Soup",
+        "price": 550,
+        "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2024-01-miso-soup%2Fmiso-soup-030" 
+    },
+    {
+        "id": 2,
+        "name": "Egg Roll",
+        "price": 550,
+        "image": "https://www.melskitchencafe.com/wp-content/uploads/2008/02/marys-egg-rolls8-e1591238011866.jpg" 
+    },
+    {
+        "id": 3,
+        "name": "Spring Roll",
+        "price": 550,
+        "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/Spring-Roll-Recipe.jpg" 
+    },
+    {
+        "id": 4,
+        "name": "Applesauce",
+        "price": 450,
+        "image": "https://sugarspunrun.com/wp-content/uploads/2021/09/Easy-Applesauce-Recipe-1-of-1.jpg" 
+    },
+    {
+        "id": 5,
+        "name": "Marble Soda",
+        "price": 4500,
+        "image": "https://m.media-amazon.com/images/I/81PFMk9gnSL._AC_UF894,1000_QL80_.jpg" 
+    },
+    {
+        "id": 6,
+        "name": "Shanghai Noodles",
+        "price": 1050,
+        "image": "https://www.aheadofthyme.com/wp-content/uploads/2016/01/shanghai-fried-noodles-in-10-minutes-2.jpg" 
+    },
+    {
+        "id": 71,
+        "name": "Singapore Curry Noodles",
+        "price": 1050,
+        "image": "https://kwokspots.com/wp-content/uploads/2022/11/singapore-curry-noodles.png" 
+    },
+    {
+        "id": 8,
+        "name": "Kung Pao Chicken",
+        "price": 1050,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD4mp7ckIiBlcLeBhyZuAasjOVv3ULu0gkw&s" 
+    },
+    {
+        "id": 9,
+        "name": "Egg Foo Young",
+        "price": 1050,
+        "image": "https://www.allrecipes.com/thmb/uwbZKXU6mzFEHCHJEIFAOlpsbLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/163370-ShrimpEggFooYoung-ddmfs-4X3-0724-bff6046f788b4acaa1692192d130d0ef.jpg" 
+    },
+    {
+        "id": 10,
+        "name": "Chicken Fried Rice",
+        "price": 1050,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtwK_ynw-Z0CEGvjpM7zsob6CVMt7r1I_xw&s" 
+    },
+    {
+        "id": 11,
+        "name": "Beef & Broccoli",
+        "price": 1050,
+        "image": "https://www.justataste.com/wp-content/uploads/2018/04/beef-broccoli-sauce-1.jpg" 
+    },
+    {
+        "id": 12,
+        "name": "General Tsos Chicken",
+        "price": 1150,
+        "image": "https://spicysouthernkitchen.com/wp-content/uploads/general-tsau-chicken-15.jpg" 
+    }
+]
