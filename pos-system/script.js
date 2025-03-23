@@ -155,7 +155,7 @@ function copyOrder() {
 
 
 function submitOrder() {
-    const webhookURL = "https://discord.com/api/webhooks/1352505544086257726/6ciYzmeYjnsJr6u0EWLzifgixKFTEyb0xn9DSt0PUL1aoTTi4kJkFYrrieeDr2Ui-SbZ";
+    const webhookURL = "https://discord.com/api/webhooks/1353271991519416332/3MMtlejHFwuhhFYtJYCLhO_pJ6OGGHW_WG0tlsLBS4eZqc780nbd_KDrnP6ruLW-ImPh";
     const department = document.getElementById('department').value;
     const name = document.getElementById('name').value;
 
