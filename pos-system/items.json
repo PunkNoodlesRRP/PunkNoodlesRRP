@@ -32,61 +32,61 @@
     {
         "id": 6,
         "name": "Shanghai Noodles",
-        "price": 1050,
+        "price": 850,
         "image": "https://www.aheadofthyme.com/wp-content/uploads/2016/01/shanghai-fried-noodles-in-10-minutes-2.jpg" 
     },
     {
         "id": 71,
         "name": "Singapore Curry Noodles",
-        "price": 1050,
+        "price": 850,
         "image": "https://kwokspots.com/wp-content/uploads/2022/11/singapore-curry-noodles.png" 
     },
     {
         "id": 8,
         "name": "Kung Pao Chicken",
-        "price": 1050,
+        "price": 850,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD4mp7ckIiBlcLeBhyZuAasjOVv3ULu0gkw&s" 
     },
     {
         "id": 9,
         "name": "Egg Foo Young",
-        "price": 1050,
+        "price": 850,
         "image": "https://www.allrecipes.com/thmb/uwbZKXU6mzFEHCHJEIFAOlpsbLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/163370-ShrimpEggFooYoung-ddmfs-4X3-0724-bff6046f788b4acaa1692192d130d0ef.jpg" 
     },
     {
         "id": 10,
         "name": "Chicken Fried Rice",
-        "price": 1050,
+        "price": 850,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtwK_ynw-Z0CEGvjpM7zsob6CVMt7r1I_xw&s" 
     },
     {
         "id": 11,
         "name": "Beef & Broccoli",
-        "price": 1050,
+        "price": 850,
         "image": "https://www.justataste.com/wp-content/uploads/2018/04/beef-broccoli-sauce-1.jpg" 
     },
     {
         "id": 12,
         "name": "General Tsos Chicken",
-        "price": 1150,
+        "price": 850,
         "image": "https://spicysouthernkitchen.com/wp-content/uploads/general-tsau-chicken-15.jpg" 
     },
     {
         "id": 13,
         "name": "Sugar Cane Juice",
-        "price": 550,
+        "price": 450,
         "image": "https://miamifruit.org/cdn/shop/files/FullSizeRender_573dcbfe-336d-4ccb-ba1b-3f8711b914bc_1000x1000.jpg?v=1717001048" 
     },
     {
         "id": 14,
         "name": "Blackberry Limeade",
-        "price": 550,
+        "price": 450,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyJlqdlWr2z9SJkLSjm9emZi2nhKeaDZyeg&s" 
     },
     {
         "id": 15,
         "name": "Vietnamese Coffee",
-        "price": 550,
+        "price": 450,
         "image": "https://i.imghippo.com/files/mP3188bl.png" 
     }
 ]
