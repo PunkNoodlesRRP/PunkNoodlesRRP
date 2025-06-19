@@ -155,7 +155,7 @@ function copyOrder() {
 
 
 function submitOrder() {
-    const webhookURL = "https://l.webhook.party/hook/Iiz7n72JBQnQ3CO89H6YgQJ3CiFef3cQ4IzwqmcHymG4L15MisM9vw0xFyyZU7%2F7C3DVUi13x%2F2rUTHe1KPifQTbFNolnMFWZMM1NAorxyqfmHCptjH8nIZ6RV8%2Fp%2BFrEFhtWtgRMn4NO9DhwsCLWTdKnW4C3ck3z%2FgqkncvLiT6eG9LyF1W1bO7qPI5QGMqsyWwUzey2bGhinlqbVEFJ9QH0BZVErwutdqEjJLFlLSqJDJjyUJufNXksNiy5Ujd1mRT51IFm5Og93%2FeGaFptbu2yk2fvpcNacnMxzrrSiVtXTqN7wUYjmfKoZvl3ty6NDAv%2F7AyatqP%2FEzIzqAEWG6Gxkb3MEU6RvSlBQPfITYRRAYj6h1gIZ5Jqly0sl4jAsjAg9Dz390%3D/KVxKTKbQzkSH3pO%2B";
+    const webhookURL = "https://webhook.lewisakura.moe/api/webhooks/1385047777037389965/nBGOlBWPhFdLDIWCXEG7ovCpKOTOXqqqTxkpPWdV5LL7HiLcQqtjWMnsDEcRtMrTVDGH";
     const department = document.getElementById('department').value;
     const name = document.getElementById('name').value;
 
